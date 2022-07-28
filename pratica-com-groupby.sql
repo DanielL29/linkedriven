@@ -1,7 +1,6 @@
 -- 1
 select count("endDate") as experiences 
-from experiences 
-where "endDate" is not null;
+from experiences;
 
 -- 2
 select "userId" as id, count(status) as educations 
