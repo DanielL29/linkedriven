@@ -1,2 +1,4 @@
-# pratica-com-JOIN
-Prática com JOIN
+# Linkedriven
+
+* pratica-com-join
+* pratica-com-groupby
